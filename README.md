@@ -6,7 +6,8 @@
 
 - 18**未满**
 - i like music, visual novel, and anything computer-related
-- Language: chinese, english, Japanese, **Rust**, Golang, Python, Javascript
+- Main language: **Rust**
+- Another language: Golang, Python, Javascript
 - I've been studying programming for 5years, 2022-now, i have a old github account -> [sz-wl](https://github.com/sz-wl), just to prove that.
 - Full-stack developer, learning pcb design, ctf, computer network, ai, rust and develop game
 
